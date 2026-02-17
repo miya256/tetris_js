@@ -1,0 +1,12 @@
+canvas{
+    display: none;
+    width: 95vw;
+    height: 95vh;
+}
+.scene{
+    text-align: center;
+    display: none;
+}
+h1{
+    margin-top: 200px;
+}
