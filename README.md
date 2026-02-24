@@ -1,6 +1,6 @@
 # テトリス
 
-https://miya256.github.io/tetris_js/
+▶ **Play:** https://miya256.github.io/tetris_js/
 
 ## 概要
 初めて JavaScript を触ったときに、テキトウにかいたプログラムです。
