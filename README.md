@@ -1,2 +1,15 @@
-# tetris_js
-Simple Tetris game in JavaScript
+# テトリス
+
+https://miya256.github.io/tetris_js/
+
+## 概要
+初めて JavaScript を触ったときに、テキトウにかいたプログラムです。
+
+## 操作方法
+- ← → ：ブロック移動
+- ↓ ：ソフトドロップ
+- ↑ ：ハードドロップ（即座に最下段へ落下）
+- A : 左回転
+- D : 右回転
+
+※ Hold はありません
